@@ -1,0 +1,13 @@
+name,level,element,attack,health,rarity,star
+Slime,1,Wind,5,20,Common,1
+Slime,1,Water,5,20,Common,1
+Slime,1,Fire,5,20,Common,1
+Slime,1,Dark,5,20,Common,1
+Slime,1,Light,5,20,Common,1
+Wolf,1,Water,8,25,Uncommon,1
+Dragon,1,Light,15,40,Rare,1
+Phoenix,1,Dark,20,50,Legendary,1
+Phoenix,1,Wind,20,50,Legendary,1
+Phoenix,1,Fire,20,50,Legendary,1
+Phoenix,1,Water,20,50,Legendary,1
+Phoenix,1,Light,20,50,Legendary,1
